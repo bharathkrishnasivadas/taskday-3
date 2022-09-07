@@ -1,0 +1,58 @@
+[
+    
+    {
+      "name":"Bharath krishna S",
+      "date of birth":"25/04/1998",
+      "age" :24,
+      "gender":"male",
+      "marital status":"single",
+      "contacts":{
+      "mail":"bharathkrishnasivadas@gmail.com",
+      "website": "www.bharathkrishnasivadas.com",
+      "phone": "8075851387"
+      },
+      "addres": {
+           " door number":"14/203",
+           "street":"chearany",
+           "village":"kollengode",
+           "post" : "kollengode",
+           "city" :"palakkad",
+           "pincode":678506
+          }
+      },
+       "education" : {
+          "sslc score":"6.8",
+          "graduated year": 2012,
+          "bord":"cbse",
+          "place":"palakkad",
+          },
+          {
+          "hsc score":"64%",
+          "graduated year":2014,
+          "bord":"statebord",
+          "place":"palakkad",
+          },
+          {
+          "ug score":"59.75%",
+          "department":"bba&computerapplication",
+          "graduated year":2019,
+          "university":"bharatyar",
+          },
+      
+      
+      {"language1":"malayalam",
+      "language2":"english",
+      "language3":"tamil"
+    },
+      {
+          "exprions":"1 +"
+      },
+      {"technical proficiencies": "web development"},
+      "programming languages1" : {"pl1":"css",
+          "pl2":"javascript",
+          "pl3":"html",
+      }
+      
+  
+      
+  ]
